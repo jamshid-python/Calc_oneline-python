@@ -1,2 +1,1 @@
-# oneline
 print(eval(input()))
