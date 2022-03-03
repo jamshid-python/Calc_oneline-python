@@ -1,0 +1,2 @@
+# oneline
+print(eval(input()))
